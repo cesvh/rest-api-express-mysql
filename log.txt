@@ -1,0 +1,59 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos los derechos reservados.
+
+Instale la versión más reciente de PowerShell para obtener nuevas características y mejoras. https://aka.ms/PSWindows
+
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> 
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> npm init -y
+Wrote to C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql\package.json:
+
+{
+  "name": "rest-api-express-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
+
+
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> 
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> npm install express
+
+added 50 packages, and audited 51 packages in 1s
+
+found 0 vulnerabilities
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> 
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> npm install nodemon -D
+
+added 116 packages, and audited 167 packages in 3s
+
+15 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> 
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> npm install mysql
+
+added 9 packages, and audited 176 packages in 1s
+
+15 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> 
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql>
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> npm install mysql
+
+up to date, audited 176 packages in 1s
+
+15 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> 
+PS C:\Users\root\Documents\devs\exe_node\github\rest-api-express-mysql> 
